@@ -86,7 +86,7 @@ Perplexity AI also offers other functionalities such as:
 
 Image Generation: Ask for visual content related to your query.
 Sharing Threads: Collaborate with others by sharing your organized Threads easily.
-Explore these features to enhance your experience further!
+Explore these features and <a href="https://www.linkedin.com/pulse/perplexity-ai-integration-unlocking-next-evolution-search-kumar-kmpmc">Perplexity AI Integration</a> to enhance your experience further!
 
 # Read More:
 <a href= "https://www.linkedin.com/pulse/perplexity-ai-integration-unlocking-next-evolution-search-kumar-kmpmc">Best Perplexity AI Integration</a>
