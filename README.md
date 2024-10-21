@@ -1,5 +1,6 @@
 # Discovering Perplexity AI: Your New Information Companion
 Introduction
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*0_zozJgpRfGlGJ_G0ag-IQ.png" alt="perplexity ai">
 Perplexity AI describes itself as a “Swiss Army Knife for information discovery and curiosity.” At its core, it’s an AI-powered search engine that merges the functionalities of a chatbot and a traditional search engine. While it doesn’t completely replace platforms like Google or ChatGPT, it offers a unique approach to information retrieval that is both efficient and user-friendly.
 
 # How Does Perplexity AI Work?
