@@ -31,38 +31,42 @@ While Perplexity strives for accuracy, it is not immune to AI hallucinations —
 # How to Use Perplexity AI
 Using Perplexity AI is straightforward and user-friendly. Below, we’ll break down the steps to help you get started and make the most of this innovative platform.
 
-Step 1: Accessing Perplexity AI
+<b>Step 1: Accessing Perplexity AI</b>
 To begin, navigate to the Perplexity AI website or download the mobile app from your device's app store. You can also install the Chrome extension for quick access while browsing.Image Idea: A screenshot of the Perplexity AI homepage, highlighting the login or sign-up options.
 
-Step 2: Creating an Account (Optional)
+<b>Step 2: Creating an Account (Optional)</b>
 While you can use Quick Search without an account, creating a free account unlocks additional features. To sign up:
 
 Click on the "Sign Up" button.
 Fill in your details (email, password).
 Verify your email address.
-Step 3: Choosing Your Search Mode
+
+<b>Step 3: Choosing Your Search Mode</b>
 Once you’re logged in, you can choose between:
 
 Quick Search: Ideal for straightforward queries.
 Pro Search: Offers a more interactive experience with follow-up questions for refined results.
-Step 4: Entering Your Query
+
+<b>Step 4: Entering Your Query</b>
 In the search bar, type your question or topic of interest. Be as specific as possible to get the best results. For example:
 
 “What are the health benefits of green tea?”
 “How do I bake a chocolate cake?”
-Step 5: Reviewing Results
+
+<b>Step 5: Reviewing Results</b>
 After submitting your query, Perplexity will generate a summary based on its findings. You’ll see:
 
 A concise answer to your question.
 Links to sources for further reading.
 Take your time to review these results and click on any links that interest you for more detailed information.Image Idea: A screenshot of search results displaying a summary answer and source links.
 
-Step 6: Asking Follow-Up Questions (Pro Search)
+<b>Step 6: Asking Follow-Up Questions (Pro Search)</b>
 If you're using Pro Search, feel free to ask follow-up questions based on the initial response. This feature allows you to dive deeper into topics without starting over.For instance, if you asked about green tea benefits, you might follow up with:
 
 “What are the side effects of green tea?”
 “How much green tea should I drink daily?”
-Step 7: Organizing Information with Threads
+
+<b>Step 7: Organizing Information with Threads</b>
 To keep track of your research, utilize the Threads feature:
 
 Create a new Thread by clicking on “New Thread.”
@@ -70,13 +74,14 @@ Name your Thread based on the topic.
 Add relevant queries and responses as you explore.
 This feature is especially useful for ongoing projects or collaborative work.Image Idea: A visual representation of a Thread interface, showcasing how users can organize their searches.
 
-Step 8: Uploading Documents (Optional)
+<b>Step 8: Uploading Documents (Optional)</b>
 If you have specific documents or images related to your query, you can upload them directly into Perplexity. This helps tailor responses based on your materials.
 
 Click on the upload icon.
 Select files from your device.
 Submit your query again for customized results.
-Step 9: Exploring Additional Features
+
+<b>Step 9: Exploring Additional Features</b>
 Perplexity AI also offers other functionalities such as:
 
 Image Generation: Ask for visual content related to your query.
